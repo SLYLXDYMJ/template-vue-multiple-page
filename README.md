@@ -1,4 +1,4 @@
-# vue-multiple-page-template
+# template-vue-multiple-page
 > vue-cli 多页面自动化配置
 
 ## 使用
